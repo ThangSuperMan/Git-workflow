@@ -8,4 +8,6 @@ end
 
 def say_good_morning
   puts 'say_good_morning '
-end
+
+def lee_see
+  puts 'lee_see'
